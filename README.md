@@ -1,6 +1,7 @@
 # web-scraping-challenge
 
-[mission_to_mars](https://user-images.githubusercontent.com/106934375/191369714-18cc7389-d492-4e9f-831b-6ef35c81e623.png)
+![mission_to_mars](https://user-images.githubusercontent.com/106934375/191369869-dfbd226d-51e0-4e1e-99cb-67b01fa2a2ba.png)
+
 
 
 In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following information outlines what you need to do.
